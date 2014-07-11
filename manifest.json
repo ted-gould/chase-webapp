@@ -1,0 +1,16 @@
+{
+    "description": "Chase Mobile Webapp",
+    "framework": "ubuntu-sdk-14.04",
+    "hooks": {
+        "chase": {
+            "apparmor": "chase.json",
+            "desktop": "chase.desktop",
+            "urls": "chase.url-dispatcher"
+        }
+    },
+    "icon": "chase-logo.png",
+    "maintainer": "Ted Gould <ted@gould.cx>",
+    "name": "cx.gould.ted.chase-webapp",
+    "title": "Chase",
+    "version": "0.1"
+}
