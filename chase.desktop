@@ -13,3 +13,5 @@ Icon=chase-logo.png
 Exec=webapp-container --store-session-cookies --webappUrlPatterns=https://m.chase.com/* https://m.chase.com
 Terminal=false
 X-Ubuntu-Touch=true
+X-Ubuntu-StageHint=SideStage
+X-Ubuntu-Single-Instance=true
