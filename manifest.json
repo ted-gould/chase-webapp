@@ -1,5 +1,6 @@
 {
-    "description": "Chase Mobile Webapp",
+    "architecture": "all",
+    "description": "Chase (webapp)",
     "framework": "ubuntu-sdk-14.04",
     "hooks": {
         "chase": {
