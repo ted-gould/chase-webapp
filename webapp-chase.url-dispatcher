@@ -1,6 +1,6 @@
 [
 	{
 		"protocol": "https",
-		"suffix": "m.chase.com"
+		"domain-suffix": "m.chase.com"
 	}
 ]
